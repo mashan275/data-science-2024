@@ -1,1 +1,3 @@
-# data-science-2024
+Halo, perkenalkan nama saya Hasta Satriya. Saya memiliki ketertarikan besar pada dunia teknologi dan analisis data. Saat ini saya sedang belajar Data Science karena saya ingin memahami bagaimana data dapat digunakan untuk menghasilkan insight yang bermanfaat dan membantu pengambilan keputusan.
+
+Tujuan saya belajar Data Science adalah untuk mengembangkan kemampuan dalam mengolah, menganalisis, dan memvisualisasikan data, serta memahami penerapan machine learning di berbagai bidang. Saya berharap kemampuan ini dapat mendukung karier saya di masa depan dan membantu saya berkontribusi dalam menyelesaikan berbagai permasalahan berbasis data.
